@@ -1,0 +1,11 @@
+1 10 hard_block 4 fast 98 /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/first_midterm_CME341/simulation/questa/work 0 0 0 0 21 0
+2 18 cycloneive_io_obuf 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 138 0
+1 18 cycloneive_io_ibuf 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 95 0
+1 23 cycloneive_mac_data_reg 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 131072 0 212 0
+1 23 cycloneive_mac_sign_reg 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 99 0
+1 28 cycloneive_mac_mult_internal 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 173 0
+1 19 cycloneive_mac_mult 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 200 0
+1 18 cycloneive_mac_out 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 153 0
+1 18 cycloneive_io_ibuf 7 fast__1 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 95 0
+1 15 student_circuit 4 fast 98 /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/first_midterm_CME341/simulation/questa/work 0 0 131072 0 508 0
+2 19 midterm_1_testbench 4 fast 98 /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/first_midterm_CME341/simulation/questa/work 0 0 0 0 163 0

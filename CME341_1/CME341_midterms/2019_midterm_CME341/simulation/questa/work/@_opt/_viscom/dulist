@@ -1,0 +1,17 @@
+1 10 hard_block 4 fast 97 /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2018_midterm_CME341/simulation/questa/work 0 0 0 0 21 0
+2 18 cycloneive_io_obuf 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 138 0
+2 18 cycloneive_io_ibuf 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 95 0
+2 16 cycloneive_mux41 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 67 0
+2 18 cycloneive_ena_reg 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 91 0
+2 18 cycloneive_clkctrl 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 111 0
+1 21 cycloneive_lcell_comb 4 fast 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 131072 0 223 0
+1 21 cycloneive_lcell_comb 7 fast__1 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 131072 0 223 0
+2 18 cycloneive_io_ibuf 7 fast__1 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 0 0 95 0
+1 21 cycloneive_lcell_comb 7 fast__2 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 131072 0 223 0
+2 13 PRIM_GDFF_LOW 7 verilog 53 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/altera 0 0 0 0 0 0
+2 6 dffeas 4 fast 53 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/altera 0 0 0 0 391 0
+1 21 cycloneive_lcell_comb 7 fast__3 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 131072 0 223 0
+1 21 cycloneive_lcell_comb 7 fast__4 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 131072 0 223 0
+1 21 cycloneive_lcell_comb 7 fast__5 57 /opt/intelFPGA/25.1.0/questa_fse/intel/verilog/cycloneive 0 0 131072 0 223 0
+1 15 student_circuit 4 fast 97 /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2018_midterm_CME341/simulation/questa/work 0 0 131072 0 533 0
+2 19 midterm_1_testbench 4 fast 97 /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2018_midterm_CME341/simulation/questa/work 0 0 0 0 163 0

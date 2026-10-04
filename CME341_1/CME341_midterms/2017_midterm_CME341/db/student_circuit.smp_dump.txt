@@ -1,0 +1,11 @@
+
+State Machine - |student_circuit|student_circuit_Q4:the_cct|ring_counter
+Name ring_counter.10000000 ring_counter.01000000 ring_counter.00100000 ring_counter.00010000 ring_counter.00001000 ring_counter.00000100 ring_counter.00000010 ring_counter.00000001 
+ring_counter.00000001 0 0 0 0 0 0 0 0 
+ring_counter.00000010 0 0 0 0 0 0 1 1 
+ring_counter.00000100 0 0 0 0 0 1 0 1 
+ring_counter.00001000 0 0 0 0 1 0 0 1 
+ring_counter.00010000 0 0 0 1 0 0 0 1 
+ring_counter.00100000 0 0 1 0 0 0 0 1 
+ring_counter.01000000 0 1 0 0 0 0 0 1 
+ring_counter.10000000 1 0 0 0 0 0 0 1 
