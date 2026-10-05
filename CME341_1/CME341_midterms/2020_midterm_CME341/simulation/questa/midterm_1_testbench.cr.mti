@@ -1,0 +1,18 @@
+/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/student_circuit.vo {1 {vlog -work work -vopt -stats=none /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/student_circuit.vo
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) '/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/midterm_1_testbench.mpf' is used as the ini file.
+-- Compiling module student_circuit
+-- Compiling module hard_block
+
+Top level modules:
+	student_circuit
+
+} {} {}} /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/midterm_1_testbench.sv {1 {vlog -work work -vopt -sv -stats=none /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/midterm_1_testbench.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) '/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/midterm_1_testbench.mpf' is used as the ini file.
+-- Compiling module midterm_1_testbench
+
+Top level modules:
+	midterm_1_testbench
+
+} {} {}}

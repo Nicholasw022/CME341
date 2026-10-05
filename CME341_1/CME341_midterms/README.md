@@ -26,3 +26,5 @@ altera_mf_ver
 
 Apply full visibility to all modules in optimization
 
+Add signals clk, clear, seed, stimulus, student output, counter full bar and
+accumulator output to the wave window.
