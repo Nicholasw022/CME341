@@ -1,0 +1,13 @@
+module student_circuit_Q1(
+  input wire        clk, 
+  input wire        clear,
+  input wire  [7:0] cct_input,
+  output reg  [7:0] cct_output
+);
+
+// initial circuit - should give 16'H622D in testbench for seed 8'HAA
+// (replace with a different circuit as directed in the preamble)
+
+
+       
+endmodule

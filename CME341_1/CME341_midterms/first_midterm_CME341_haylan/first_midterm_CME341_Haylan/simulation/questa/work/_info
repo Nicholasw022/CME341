@@ -1,0 +1,194 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/.engr-ece/twm792/Documents/CME341/CME341_Assign_4/case_statement_example/simulation/questa
+T_opt
+!s110 1759971275
+VaHUKQZc;GVhfLSY5bReLo1
+Z2 04 19 4 work midterm_1_testbench fast 0
+=1-b07b25240a11-68e707cb-2d36c-92cf
+Z3 !s124 OEM10U3 
+o-quiet -auto_acc_if_foreign -work work -L cycloneive_ver -L altera_ver -L altera_mf_ver +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.2;73
+T_opt1
+!s110 1759691497
+V?I9LHld8Y[bESY9Tng5CT0
+R2
+=1-b07b25240e8d-68e2c2e8-e4222-a36c
+R3
+o-quiet -auto_acc_if_foreign -work work -L altera_mf_ver -L cycloneive_ver -L altera_ver +acc
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1759870883
+Vol9><4U:_C8ji]b_R7e9O3
+R2
+=1-b07b25240ea9-68e57fa2-ed72e-5ee4f
+R3
+o-quiet -auto_acc_if_foreign -work work -L altera_mf_ver -L altera_ver -L cycloneive_ver +acc
+R4
+n@_opt2
+R5
+R1
+vhard_block
+Z6 !s110 1759971271
+!i10b 1
+!s100 IY9kadL^>ocA]cUBPz?l72
+II4ChX7UXU_z>gB5<N;ARo1
+Z7 d/home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa
+Z8 w1759971268
+Z9 8/home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/student_circuit.vo
+Z10 F/home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/student_circuit.vo
+!i122 207
+L0 627 34
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z13 !s108 1759971271.000000
+Z14 !s107 /home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/student_circuit.vo|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/student_circuit.vo|
+!i113 0
+Z16 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vmidterm_1_testbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R6
+!i10b 1
+!s100 @jLUZMoY62Z6LAo;nZZL30
+IZ55<7QmIn@3G9_dGB2<F13
+S1
+R7
+w1759967504
+8/home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/midterm_1_testbench.sv
+F/home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/midterm_1_testbench.sv
+!i122 206
+L0 2 89
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 /home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/midterm_1_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/.engr-ece/twm792/Documents/CME341/first_midterm_CME341/simulation/questa/midterm_1_testbench.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vstudent_circuit
+R6
+!i10b 1
+!s100 D_lC8GSgdZSIS2lZajGXC2
+IMhnHJW7oI?aaUSD7k]nA62
+R7
+R8
+R9
+R10
+!i122 207
+L0 32 594
+R11
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R16
+R4
