@@ -1,5 +1,5 @@
 EDA Netlist Writer report for student_circuit
-Mon Oct  5 15:43:45 2026
+Tue Oct  6 16:26:58 2026
 Quartus Prime Version 25.1std.0 Build 1129 10/21/2025 SC Standard Edition
 
 
@@ -37,7 +37,7 @@ on the Quartus Prime software download page.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Mon Oct  5 15:43:45 2026 ;
+; EDA Netlist Writer Status ; Successful - Tue Oct  6 16:26:58 2026 ;
 ; Revision Name             ; student_circuit                       ;
 ; Top-level Entity Name     ; student_circuit                       ;
 ; Family                    ; Cyclone IV E                          ;
@@ -81,13 +81,13 @@ on the Quartus Prime software download page.
 Info: *******************************************************************
 Info: Running Quartus Prime EDA Netlist Writer
     Info: Version 25.1std.0 Build 1129 10/21/2025 SC Standard Edition
-    Info: Processing started: Mon Oct  5 15:43:44 2026
+    Info: Processing started: Tue Oct  6 16:26:57 2026
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off student_circuit -c student_circuit
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (204019): Generated file student_circuit.vo in folder "/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/" for EDA simulation tool
 Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 871 megabytes
-    Info: Processing ended: Mon Oct  5 15:43:45 2026
+    Info: Processing ended: Tue Oct  6 16:26:58 2026
     Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:00
 

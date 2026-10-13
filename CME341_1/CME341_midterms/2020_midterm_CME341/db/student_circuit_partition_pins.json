@@ -36,11 +36,43 @@
 					"strict" : false
 				},
 				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "clear",
+					"strict" : false
+				},
+				{
 					"name" : "cct_input[0]",
 					"strict" : false
 				},
 				{
+					"name" : "cct_input[1]",
+					"strict" : false
+				},
+				{
+					"name" : "cct_input[2]",
+					"strict" : false
+				},
+				{
+					"name" : "cct_input[3]",
+					"strict" : false
+				},
+				{
 					"name" : "cct_input[4]",
+					"strict" : false
+				},
+				{
+					"name" : "cct_input[5]",
+					"strict" : false
+				},
+				{
+					"name" : "cct_input[6]",
+					"strict" : false
+				},
+				{
+					"name" : "cct_input[7]",
 					"strict" : false
 				}
 			]

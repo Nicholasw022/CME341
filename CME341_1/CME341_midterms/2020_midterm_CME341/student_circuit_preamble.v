@@ -58,27 +58,29 @@ endmodule
 
 
 
-/*
+
 module student_circuit_Q3 (
   input wire        clk, 
   input wire        clear,
   input wire  [7:0] cct_input,
   output reg  [7:0] cct_output
 );
-reg newclk;
-	always@*
+	
+reg [7:0] twocomp;
+	always@(posedge clk or posedge clear)
+	  if (clear)
+	twocomp  = 8'd0; 
+	else
+	twocomp = ~cct_input + 8'd1;
+	
+   always@(posedge clk or posedge clear)
    if (clear)
 	cct_output  = 8'd0; 
-	always @(posedge clk)
-	newclk = ~newclk;
-	
-  always @(posedge newclk)
-   cct_output  = ~cct_input - 8'd1;
-	
+	else 
+	   cct_output  = twocomp;
        
 endmodule
 
-*/
 
 
 

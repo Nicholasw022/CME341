@@ -15,6 +15,14 @@ R0
 R1
 R0
 R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
 !s11f vlog 2025.2 2025.05, May 31 2025
 13
 !s112 1.1
@@ -26,10 +34,10 @@ d/home/nyk438/engr-ece
 T_opt
 !i145 1
 !i144 0
-!s110 1791236653
-V=dB]m?nS_o<iMJ?ek0zT40
+!s110 1791325651
+Vi^=LUGOLcHgWg4MF`<<2U2
 04 19 4 work midterm_1_testbench fast 0
-=1-b07b252409d8-6ac41a2d-5a4e7-6f1b2
+=1-b07b2524043e-6ac575d3-154a2-6c66
 R1
 !s12f OEM100
 !s12b OEM100
@@ -41,22 +49,22 @@ n@_opt
 OL;O;2025.2;82
 vhard_block
 Z3 2/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/student_circuit.vo
-Z4 !s110 1791236631
+Z4 !s110 1791325640
 !i10b 1
-!s100 ohVIK4zWF_a3iS]87g@n92
-I`@8b;LaI7_NabzSZc5V?o3
+!s100 IkZa86TD@d[63``F^0NF71
+IIPQj1gDTL9Dna@Fg4<a^m2
 Z5 d/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa
-Z6 w1791236625
+Z6 w1791325618
 Z7 8/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/student_circuit.vo
 Z8 F/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/student_circuit.vo
-!i122 21
-L0 357 34
+!i122 37
+L0 883 34
 Z9 VDg1SIo80bB@j0V0VzS_@n1
 Z10 OL;L;2025.2;82
 r1
 !s85 0
 31
-Z11 !s108 1791236631.000000
+Z11 !s108 1791325640.000000
 Z12 !s107 /home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/student_circuit.vo|
 Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/student_circuit.vo|
 !i113 0
@@ -74,7 +82,7 @@ R5
 w1790618678
 8/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/midterm_1_testbench.sv
 F/home/.engr-ece/nyk438/CME341/CME341_1/CME341_midterms/2020_midterm_CME341/simulation/questa/midterm_1_testbench.sv
-!i122 20
+!i122 36
 L0 2 89
 R9
 R10
@@ -91,14 +99,14 @@ vstudent_circuit
 R3
 R4
 !i10b 1
-!s100 bf;a`nIZBoQa:[IYXF70S1
-IJ3A<c886J?TbWTnSSfMGK1
+!s100 i9W1cW];HWFPKFl[JHDGE1
+IKjhf3:8n^=85IiJ7gh<VJ3
 R5
 R6
 R7
 R8
-!i122 21
-L0 32 324
+!i122 37
+L0 32 850
 R9
 R10
 r1
